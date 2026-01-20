@@ -1,0 +1,13 @@
+{
+  "input_root_dir": "yjlee_mlops_on_bricks",
+  "input_cloud": "aws",
+  "input_cicd_platform": "github_actions",
+  "input_default_branch": "main",
+  "input_release_branch": "release",
+  "cloud_specific_node_type_id": "v0.236.0",
+  "input_cli_version": "v0.236.0",
+  "test_catalog_name": "ext_s3_000",
+  "staging_catalog_name": "ext_s3_000_stg",
+  "prod_catalog_name": "ext_s3_000_prd",
+  "input_docker_image": "databricksfieldeng/mlopsstacks:latest"
+}
